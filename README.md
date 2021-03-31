@@ -40,3 +40,6 @@ Se deseja mudar o prefixo do bot, as mensagens de ajuda ou até mesmo o nome do 
 
 ### IMPORTANTE - Figurinhas animadas
 Para criar figurinhas animadas usando o comando de sticker, você precisará baixar o [ffmpeg](https://www.mediafire.com/file/clvtrkmusbpo7fs/ffmpeg-2021-03-14-git-1d61a31497-full_build.rar/file) e adicionar o caminho da pasta bin dele como [variável do ambiente](https://professor-falken.com/pt/windows/como-configurar-la-ruta-y-las-variables-de-entorno-en-windows-10/) `PATH`. Ex.: `C:\Users\J-Dev-JS\Desktop\ffmpeg-2021-03-14-git-1d61a31497-full_build\bin`
+
+### Tem dúvidas?
+Caso tiver dúvidas ou 0 conhecimento em programação e queira ajuda, abra uma [Issue](https://github.com/J-Dev-JS/whatsapp-bot/issues) que eu responderei você e darei suporte.
