@@ -1,5 +1,5 @@
 # Bot para WhatsApp em JavaScript
-Um simples bot open source usando a NPM `whatsapp-web.js`, criado e liberado aqui com o intuito de ajudar iniciantes em programação que querem fazer seu primeiro projeto.
+Um simples bot open source usando a NPM `whatsapp-web.js`, criado e liberado aqui com o intuito de ajudar iniciantes em programação que querem fazer seu primeiro projeto. [Baixe Aqui](https://github.com/J-Dev-JS/whatsapp-bot/archive/refs/tags/1.0.zip)
 
 ### NPMs usadas
 - [whatsapp-web.js](https://www.npmjs.com/package/whatsapp-web.js)
