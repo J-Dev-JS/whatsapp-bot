@@ -23,6 +23,9 @@ Um simples bot open source usando a NPM `whatsapp-web.js`, criado e liberado aqu
 
 ### Comandos
 O bot até o momento possui somente 3 comandos `ajuda, sticker e audio`, pois acho desnecessário fazer vários comandos e liberar aqui, sendo que o foco em si é a criação do bot e o comando de figurinhas animadas. O comando de áudio foi apenas um brinde, pois acho muito complicado programadores novatos criarem esse comando que é bem interessante para quem quer criar um comando de música.
+> ![ajuda](https://media.discordapp.net/attachments/786732634242940958/826849570323300352/unknown.png)
+> ![audio](https://media.discordapp.net/attachments/786732634242940958/826849376113655888/unknown.png)
+> ![sticker](https://cdn.discordapp.com/attachments/786732634242940958/826849459521716254/sticker.png)
 
 ### Configurações básicas
 Se deseja mudar o prefixo do bot, as mensagens de ajuda ou até mesmo o nome do áudio do comando `audio`, edite a `config.json` do bot e configure do modo que desejar. Por padrão, a `config.json` vem do seguinte modo:
