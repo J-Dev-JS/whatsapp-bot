@@ -1,0 +1,10 @@
+{
+	"prefixo": "!!!",
+	"ajuda": {
+		"sticker": "Cria um sticker da imagem/gif desejada. ( stickers animados disponíveis! )",
+		"audio": "Envia um áudio desejado usando sua conta whatsapp."
+	},
+	"audio": {
+		"audio_name": "audio.mp3"
+	}
+}
